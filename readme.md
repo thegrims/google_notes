@@ -1,6 +1,6 @@
 # Google Technical Interview Notes / Cheat Sheet
 
-### Do's
+## Do's
 
 #### Before
 
@@ -36,7 +36,7 @@
 
 * Ask for feedback on ways to improve
 
-### Dont's
+## Dont's
 
 * Don't use overly abstract psudocode
 
